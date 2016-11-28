@@ -1,2 +1,2 @@
-# rc281116
-ejercio calidad
+# qa-testing-service
+Repositorio para el codigo utilizado en workshops de testing
